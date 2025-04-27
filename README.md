@@ -17,3 +17,6 @@ This script provides detailed information about the system's hardware and softwa
 ## Conclusion
 
 In this project, we successfully developed a Shell script that provides essential system information, including CPU details, memory usage, disk space, and network configuration. The script serves as a valuable tool for users to quickly assess the performance and status of their systems. This project has equipped us with practical skills in Shell scripting, system monitoring, and version control, which are essential for any aspiring developer or system administrator.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/System-Information-Script/blob/main/LICENSE) file for details.
